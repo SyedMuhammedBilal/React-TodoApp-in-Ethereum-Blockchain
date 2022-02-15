@@ -1,0 +1,9 @@
+.category-lists {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.category-name {
+  padding-right: 1rem;
+}
